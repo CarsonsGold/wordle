@@ -1,6 +1,6 @@
 ![Wordle+](https://raw.githubusercontent.com/MikhaD/wordle/main/public/img/og_1200x630.png)
 <div align="center">
-  <a href="https://CarsonsGold.github.io/wordle/" ><img src="https://github.com/MikhaD/wordle/workflows/Publish/badge.svg?branch=main" alt="Publish workflow"/></a>
+  <a href="https://CarsonsGold.github.io/wordle/" ><img src="https://github.com/CarsonsGold/wordle/workflows/Publish/badge.svg?branch=main" alt="Publish workflow"/></a>
   <img src="https://img.shields.io/github/package-json/v/MikhaD/wordle" alt="GitHub package.json version" />
 </div>
 
