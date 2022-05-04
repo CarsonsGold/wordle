@@ -5,6 +5,8 @@
 	export let visible: boolean;
 </script>
 
+<div>Here's to Bill Carson's gold...</div>
+
 <h3>how to play</h3>
 <div>Guess the <strong>WORDLE</strong> in {ROWS} tries.</div>
 <div>Each guess must be a valid {COLS} letter word. Hit the enter button to submit.</div>
